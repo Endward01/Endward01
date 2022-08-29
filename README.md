@@ -8,7 +8,7 @@ I'm a polish guy with an interest in programming. I'm currently learning HTML, C
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:kontakt.dpretki@gmail.com)  [![linkedin]][linkedin]
+[![gmail_badge]](mailto:kontakt.dpretki@gmail.com)  [![linkedin_badge]][linkedin]
 
 
 
@@ -17,12 +17,12 @@ I'm a polish guy with an interest in programming. I'm currently learning HTML, C
 
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/daniel-pretki
 [github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
 <!-- profile links -->
 [github_profile]: https://github.com/Endward01 "Github Profile"
-[linkedin]: www.linkedin.com/in/daniel-pretki "Linkedin Profile"
+[linkedin_badge]: www.linkedin.com/in/daniel-pretki "Linkedin Profile"
 <!--
 **Endward01/Endward01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
