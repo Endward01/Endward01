@@ -12,7 +12,7 @@ I'm a polish guy with an interest in programming. I'm currently learning HTML, C
 
 
 
-<!-- [![github]][github_profile] -->
+[![github]][github_profile]
 
 
 <!-- badges -->
