@@ -16,7 +16,7 @@ I'm a polish guy with an interest in programming. I'm currently learning HTML, C
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[linkedin]:https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!--
 **Endward01/Endward01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
