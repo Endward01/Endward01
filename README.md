@@ -8,7 +8,7 @@ I'm a polish guy with an interest in programming. I'm currently learning HTML, C
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:kontakt.dpretki@gmail.com)  [![linkedin_badge]][linkedin]
+[![gmail_badge]](mailto:kontakt.dpretki@gmail.com)  [![linkedin_badge]](www.linkedin.com/in/daniel-pretki)
 
 
 
