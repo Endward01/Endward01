@@ -1,4 +1,4 @@
-# Hi 👋, I'm Daniel
+# Hello There!
 
 I'm a guy with an interest in programming. I'm currently learning HTML, CSS and JScript to become an Front End Developer. I have to some knowledge about programing in Java.
 
