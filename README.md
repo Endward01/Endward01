@@ -14,6 +14,10 @@ I'm a guy with an interest in programming. I'm currently learning HTML, CSS and 
 
 [![github]][github_profile]
 
+<!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@a11b6890-a292-49e9-98ce-af3add72fe48/8636b771-27d3-460f-bf42-07c5a8d19838.svg"></embed></figure>
+<!--END_SECTION:waka-->
+
 
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
