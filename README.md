@@ -1,22 +1,15 @@
 # Hello There!
 
-I'm a guy with an interest in programming. I'm currently learning HTML, CSS and JScript to become an Front End Developer. I have to some knowledge about programing in Java.
-
-- I enjoy learning new stuff 
-- I like to challenge myself, even if I'm working on something all day or even longer.
-- And yes one more thing ... open source babe.
-
-## Contact me
-
-[![gmail_badge]](mailto:kontakt.dpretki@gmail.com)  [![linkedin_badge]][linkedin]
-
-
+My name is Daniel Pretki a guy who likes to learn new things and is interested in programming. I am currently learning HTML, CSS, JScript and also tried Java but i have put it off until later.
 
 [![github]][github_profile]
 
-<!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@a11b6890-a292-49e9-98ce-af3add72fe48/8636b771-27d3-460f-bf42-07c5a8d19838.svg"></embed></figure>
-<!--END_SECTION:waka-->
+## If you want to contact me please don't hesitate.
+
+[![gmail_badge]](mailto:kontakt.dpretki@gmail.com)  [![linkedin_badge]][linkedin]
+
+<figure><embed src="https://wakatime.com/share/@a11b6890-a292-49e9-98ce-af3add72fe48/80b74dc5-c385-4ad6-b7a7-4ba7cba2af62.svg"></embed></figure>
+
 
 
 <!-- badges -->
