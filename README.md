@@ -6,7 +6,7 @@ My name is Daniel Pretki a guy who likes to learn new things and is interested i
 
 ## If you want to contact me please don't hesitate.
 
-[![gmail_badge]](mailto:kontakt.dpretki@gmail.com)  [![linkedin_badge]][linkedin]
+<!-- [![gmail_badge]](mailto:kontakt.dpretki@gmail.com) -->  [![linkedin_badge]][linkedin] 
 
 <figure><embed src="https://wakatime.com/share/@a11b6890-a292-49e9-98ce-af3add72fe48/80b74dc5-c385-4ad6-b7a7-4ba7cba2af62.svg"></embed></figure>
 
